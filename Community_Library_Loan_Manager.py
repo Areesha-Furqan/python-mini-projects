@@ -28,7 +28,7 @@ while True:
         bor=input('\nPS: make sure to write exact name 🙂 \nwhich Book?: ').lower().strip()
         l=[n.lower() for n in coll]
         if bor in l: #used list comprehension to make books names lowercase
-            r=coll.pop(l.index(b)) #index of b in lower case version list will be index of original Book 
+            r=coll.pop(l.index(bor)) #index of b in lower case version list will be index of original Book 
             print('\nBorrowed succesfully------')
         else:
             print('\ninvalid book name------\n')
