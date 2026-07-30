@@ -6,15 +6,13 @@ This repository contains beginner-to-intermediate Python scripts I built while m
 
 ## Projects Included:
 
-### 1. 🛒 Shopping Cart
-*[click here for the code](https://github.com/Areesha-Furqan/python-mini-projects/blob/main/shopping_cart.py)*
+### 1. 🛒 [Shopping Cart](https://github.com/Areesha-Furqan/python-mini-projects/blob/main/shopping_cart.py)
 A menu-driven CLI program that simulates an interactive shopping cart. Users can manage their cart through a numbered menu with real-time feedback.
 
 - **Concepts Covered:** `append`, `insert`, `remove`, `pop`, `clear`, `sort`, `len`, conditional checks (`in`), and infinite `while` loops.
 - **Features:** Add items, insert at specific positions, remove by exact name, remove the last item, view cart, count items, empty cart, and exit gracefully.
 
-### 2. 📚 Community Library Loan Manager
-*[click here for the code](https://github.com/Areesha-Furqan/python-mini-projects/blob/main/Community_Library_Loan_Manager.py)*
+### 2. 📚 [Community Library Loan Manager](https://github.com/Areesha-Furqan/python-mini-projects/blob/main/Community_Library_Loan_Manager.py)
 A comprehensive CLI tool for a small community library to manage its book collection. Starts with a pre-set inventory and lets librarians borrow, return, add, and reorganize books through a 13-option menu.
 
 - **Concepts Covered:** `append`, `insert`, `remove`, `pop`, `clear`, `sort`, `reverse`, `len`, `in` operator, negative indexing (`[-1]`), safe removal with pre-validation, and confirmation dialogs.
