@@ -2,6 +2,8 @@
 
 This repository contains beginner-to-intermediate Python scripts I built while mastering fundamental concepts like lists, loops, conditionals, and user interaction. Each project is a fully functional CLI application with zero external dependencies—just pure Python logic.
 
+---
+
 ## Projects Included:
 
 ### 1. 🛒 Shopping Cart
@@ -10,8 +12,6 @@ A menu-driven CLI program that simulates an interactive shopping cart. Users can
 
 - **Concepts Covered:** `append`, `insert`, `remove`, `pop`, `clear`, `sort`, `len`, conditional checks (`in`), and infinite `while` loops.
 - **Features:** Add items, insert at specific positions, remove by exact name, remove the last item, view cart, count items, empty cart, and exit gracefully.
-
----
 
 ### 2. 📚 Community Library Loan Manager
 *(click here for the code)*  
