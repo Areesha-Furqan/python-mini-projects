@@ -18,7 +18,7 @@ A comprehensive CLI tool for a small community library to manage its book collec
 - **Concepts Covered:** `append`, `insert`, `remove`, `pop`, `clear`, `sort`, `reverse`, `len`, `in` operator, negative indexing (`[-1]`), safe removal with pre-validation, and confirmation dialogs.
 - **Features:** View all books, borrow a book (with safety check), return a book, add a new book, insert at any position, check availability, total count, peek at the last book, undo the last action, sort alphabetically, reverse order, empty the entire collection (with confirmation), and exit.
 
-### 3. 📊 [[Gradebook Manager](https://github.com/Areesha-Furqan/python-mini-projects/blob/main/Student_Gradebook_Manager.py)
+### 3. 📊 [Gradebook Manager](https://github.com/Areesha-Furqan/python-mini-projects/blob/main/Student_Gradebook_Manager.py)
 A comprehensive CLI tool for a teacher to manage student grades using dictionary-based key-value storage. Starts with a pre-set gradebook and allows adding, updating, deleting, searching, and merging student records through a 13-option menu.
 
 - **Concepts Covered:** Dictionary operations (`keys`, `values`, `items`, `get`, `setdefault`, `popitem`, `update`, `copy`, `clear`), `in` operator, `del`, `len`, safe lookups, confirmation dialogs, and infinite `while` loops.
