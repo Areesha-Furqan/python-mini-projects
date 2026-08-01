@@ -21,7 +21,8 @@ while True:
           '\n5. Check total Available Books',
           '\n6. Check Recently Added Book',
           '\n7. Reorganize Coolection',
-          '\n8. Clear the Collection (IF NEEDED)')
+          '\n8. Clear the Collection (IF NEEDED)',
+          '\n9. Exit')
     opt=int(input('\nPlease select an option: '))
     
     if opt==1:
@@ -32,30 +33,34 @@ while True:
             print('\nBorrowed succesfully------')
         else:
             print('\ninvalid book name------\n')
-    if opt==2:
+    elif opt==2:
         coll.append(r)
         print('\nReturned Succesfully------')
-    if opt==3:
+    elif opt==3:
         add=input('enter the Book: ').strip()
         coll.append(add)
         print('\nAdded Succesfully------')
-    if opt==4:
+    elif opt==4:
         av=input('\nPS: make sure to write exact name 🙂 \nwhich Book?: ').lower().strip()
         l=[n.lower() for n in coll]
         if av in l:
             print('\nYes, Available------')
         else:
             print('\nNot Available------')
-    if opt==5:
+    elif opt==5:
         print('Total Books: ',len(coll),'-------')
-    if opt==6:
+    elif opt==6:
         if add !='':
             print('\n',add,'------')
         else:
             print('\nNo recently added book-------')
-    if opt==7:
+    elif opt==7:
         coll.sort()
         print('Reorganized Succesfully-------')
-    if opt==8:
+    elif opt==8:
         coll.clear()
         print('Cleared Collection Succesfully-------')
+    elif opt==9:
+        break
+    else:
+        print('Please select an Valid option-------')
