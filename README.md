@@ -24,7 +24,7 @@ A comprehensive CLI tool for a teacher to manage student grades using dictionary
 - **Concepts Covered:** Dictionary operations (`keys`, `values`, `items`, `get`, `setdefault`, `popitem`, `update`, `copy`, `clear`), `in` operator, `del`, `len`, safe lookups, confirmation dialogs, and infinite `while` loops.
 - **Features:** View all students and grades, add a new student, update a grade, delete a student (with safety check), safely retrieve a grade using `.get()`, check if a student exists, add a student only if missing (`.setdefault()`), remove the last added student (`.popitem()`), count total students, copy the gradebook as a backup, merge another gradebook, clear all grades (with confirmation), and exit gracefully.
 
-### 4. 🎓 [Student Course Enrollment System]
+### 4. 🎓 [Student Course Enrollment System]https://github.com/Areesha-Furqan/python-mini-projects/blob/main/student_course_enrollment_system.py)
 A comprehensive CLI system for university departments to manage student enrollments. Handles adding students, enrolling them in courses, dropping courses, and generating reports using nested data structures (dictionary of students → each with a list of courses).
 
 - **Concepts Covered:** Nested dictionaries, dictionary of dictionaries with lists, `.items()`, `.copy()`, `.setdefault()`, `in` operator, `del`, `len`, nested loops, course counting using a temporary dictionary, case-insensitive search, confirmation dialogs, and safe data validation.
