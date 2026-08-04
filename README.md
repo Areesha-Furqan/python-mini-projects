@@ -27,7 +27,7 @@ A comprehensive CLI tool for a teacher to manage student grades using dictionary
 ### 4. 🎓 [Student Course Enrollment System](https://github.com/Areesha-Furqan/python-mini-projects/blob/main/student_course_enrollment_system.py)
 A comprehensive CLI system for university departments to manage student enrollments. Handles adding students, enrolling them in courses, dropping courses, and generating reports using nested data structures (dictionary of students → each with a list of courses).
 
-- **Concepts Covered:** Nested dictionaries, dictionary of dictionaries with lists, `.items()`, `.copy()`, `.setdefault()`, `in` operator, `del`, `len`, nested loops, course counting using a temporary dictionary, case-insensitive search, confirmation dialogs, and safe data validation.
+- **Concepts Covered:** `Function definition`, `parameters`, `return` values, refactoring procedural code into modular functions, safe data handling via parameters instead of `global` variables, `nested dictionaries`, dictionary of dictionaries with lists, `.items()`, `.copy()`, `.setdefault()`, `in` operator, `del`, `len`, `nested loops`, course counting using a temporary dictionary, case-insensitive `search`, confirmation dialogs, and safe data validation.
 
 - **Features:** `Function definition`, `parameters`, `return` values, refactoring procedural code into modular functions, safe data handling via parameters instead of `global` variables, `nested dictionaries`, dictionary of dictionaries with lists, `.items()`, `.copy()`, `.setdefault()`, `in` operator, `del`, `len`, `nested loops`, course counting using a temporary dictionary, case-insensitive `search`, confirmation dialogs, and safe data validation.
 
