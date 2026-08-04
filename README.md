@@ -29,7 +29,7 @@ A comprehensive CLI system for university departments to manage student enrollme
 
 - **Concepts Covered:** Nested dictionaries, dictionary of dictionaries with lists, `.items()`, `.copy()`, `.setdefault()`, `in` operator, `del`, `len`, nested loops, course counting using a temporary dictionary, case-insensitive search, confirmation dialogs, and safe data validation.
 
-- **Features:** Add new student, enroll in a course (duplicate prevention), drop a course (safety check), view student details (with course count), view all students, search by name (partial/case-insensitive), delete entire student record (with confirmation), generate course enrollment report (course → student count), backup system, and exit gracefully.
+- **Features:** `Function definition`, `parameters`, `return` values, refactoring procedural code into modular functions, safe data handling via parameters instead of `global` variables, `nested dictionaries`, dictionary of dictionaries with lists, `.items()`, `.copy()`, `.setdefault()`, `in` operator, `del`, `len`, `nested loops`, course counting using a temporary dictionary, case-insensitive `search`, confirmation dialogs, and safe data validation.
 
 ---
 
