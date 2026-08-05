@@ -32,7 +32,7 @@ A comprehensive CLI system for university departments to manage student enrollme
 
 - **Features:** `Function definition`, `parameters`, `return` values, refactoring procedural code into modular functions, safe data handling via parameters instead of `global` variables, `nested dictionaries`, dictionary of dictionaries with lists, `.items()`, `.copy()`, `.setdefault()`, `in` operator, `del`, `len`, `nested loops`, course counting using a temporary dictionary, case-insensitive `search`, confirmation dialogs, and safe data validation.
 
-### 5. 💰 [Personal Expense Tracker]
+### 5. 💰 [Personal Expense Tracker](https://github.com/Areesha-Furqan/python-mini-projects/blob/main/personal_expense_tracker.py)
 A comprehensive CLI tool for personal finance management. Tracks income and expenses, generates category-wise summaries, monthly breakdowns, and budget comparisons using a list-of-dictionaries data structure.
 
 - **Concepts Covered:** `Function definition`, `parameters`, `return` values, `list` of dictionaries, `dictionary` aggregation, date `filtering`, case-insensitive `search`, `combined-key` budgeting, budget vs actual `comparisons`, safe `deletion` with confirmation, `docstrings`, and `modular function-based architecture`.
