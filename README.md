@@ -22,6 +22,7 @@ A comprehensive CLI tool for a small community library to manage its book collec
 A comprehensive CLI tool for a teacher to manage student grades using dictionary-based key-value storage. Starts with a pre-set gradebook and allows adding, updating, deleting, searching, and merging student records through a 13-option menu.
 
 - **Concepts Covered:** Dictionary operations (`keys`, `values`, `items`, `get`, `setdefault`, `popitem`, `update`, `copy`, `clear`), `in` operator, `del`, `len`, safe lookups, confirmation dialogs, and infinite `while` loops.
+
 - **Features:** View all students and grades, add a new student, update a grade, delete a student (with safety check), safely retrieve a grade using `.get()`, check if a student exists, add a student only if missing (`.setdefault()`), remove the last added student (`.popitem()`), count total students, copy the gradebook as a backup, merge another gradebook, clear all grades (with confirmation), and exit gracefully.
 
 ### 4. 🎓 [Student Course Enrollment System](https://github.com/Areesha-Furqan/python-mini-projects/blob/main/student_course_enrollment_system.py)
@@ -30,6 +31,13 @@ A comprehensive CLI system for university departments to manage student enrollme
 - **Concepts Covered:** `Function definition`, `parameters`, `return` values, refactoring procedural code into modular functions, safe data handling via parameters instead of `global` variables, `nested dictionaries`, dictionary of dictionaries with lists, `.items()`, `.copy()`, `.setdefault()`, `in` operator, `del`, `len`, `nested loops`, course counting using a temporary dictionary, case-insensitive `search`, confirmation dialogs, and safe data validation.
 
 - **Features:** `Function definition`, `parameters`, `return` values, refactoring procedural code into modular functions, safe data handling via parameters instead of `global` variables, `nested dictionaries`, dictionary of dictionaries with lists, `.items()`, `.copy()`, `.setdefault()`, `in` operator, `del`, `len`, `nested loops`, course counting using a temporary dictionary, case-insensitive `search`, confirmation dialogs, and safe data validation.
+
+### 5. 💰 [Personal Expense Tracker]
+A comprehensive CLI tool for personal finance management. Tracks income and expenses, generates category-wise summaries, monthly breakdowns, and budget comparisons using a list-of-dictionaries data structure.
+
+- **Concepts Covered:** `Function definition`, `parameters`, `return` values, `list` of dictionaries, `dictionary` aggregation, date `filtering`, case-insensitive `search`, `combined-key` budgeting, budget vs actual `comparisons`, safe `deletion` with confirmation, `docstrings`, and `modular function-based architecture`.
+
+- **Features:** Add transaction (auto-ID), view all transactions, view expense summary by category, view monthly summary (income/expenses/net savings), delete transaction (with confirmation), search transactions (case-insensitive partial match), set monthly budget per category, check budget status (compare spending against budget), and exit gracefully.
 
 ---
 
