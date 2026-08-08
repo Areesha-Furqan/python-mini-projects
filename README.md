@@ -39,7 +39,7 @@ A comprehensive CLI tool for personal finance management. Tracks income and expe
 
 - **Features:** Add transaction (auto-ID), view all transactions, view expense summary by category, view monthly summary (income/expenses/net savings), delete transaction (with confirmation), search transactions (case-insensitive partial match), set monthly budget per category, check budget status (compare spending against budget), and exit gracefully.
 
-### 6. 📦 [SmartStock Inventory System](https://github.com/Areesha-Furqan/SmartStock-Inventory-System)
+### 6. 📦 [SmartStock Inventory System](https://github.com/Areesha-Furqan/python-mini-projects/blob/main/smart_stock_inventory_system.py)
 A professional CLI inventory management system for small retail shops. Track products, manage stock levels, receive low-stock alerts, and prevent overselling—all with automatic JSON persistence.
 
 - **Concepts Covered:** List of dictionaries, functions with parameters and return values, error handling (`try/except` with bulletproof input loops), JSON file I/O (`json.dump()`/`json.load()`), low-stock alert logic, oversell prevention, deletion confirmation, deleted products log, docstrings, and modular function-based architecture.
